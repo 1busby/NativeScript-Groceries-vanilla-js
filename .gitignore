@@ -1,6 +1,12 @@
-# Mac.
-.DS_STORE
-
-# Node.
-node_modules
 npm-debug.log
+.DS_Store
+
+*.js.map
+app/**/*.js
+hooks/
+lib/
+node_modules/
+platforms/
+tmp/
+typings/
+report/
